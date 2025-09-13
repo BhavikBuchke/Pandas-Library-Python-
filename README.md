@@ -4,17 +4,17 @@ This repository contains a curated collection of 30 projects demonstrating my pr
 
 ## **📚 Table of Contents**
 
-[About This Portfolio](BhavikBuchke/Pandas-Library-Python)
+* [About This Portfolio](https://github.com/BhavikBuchke/Pandas-Library-Python-?tab=readme-ov-file#-about-this-portfolio)
 
-[Project Structure](BhavikBuchke/Pandas-Library-Python)
+* [Project Structure](https://github.com/BhavikBuchke/Pandas-Library-Python-#-project-structure)
 
-[Foundational Skills](BhavikBuchke/Pandas-Library-Python)
+* [Foundational Skills](https://github.com/BhavikBuchke/Pandas-Library-Python-#-foundational-skills)
 
-[Intermediate Data Manipulation](BhavikBuchke/Pandas-Library-Python)
+* [Intermediate Data Manipulation](https://github.com/BhavikBuchke/Pandas-Library-Python-#-intermediate-data-manipulation)
 
-[Advanced Data Analysis](BhavikBuchke/Pandas-Library-Python)
+* [Advanced Data Analysis](https://github.com/BhavikBuchke/Pandas-Library-Python-#-advanced-data-analysis)
 
-[How to Run These Projects](BhavikBuchke/Pandas-Library-Python)
+* [How to Run These Projects](https://github.com/BhavikBuchke/Pandas-Library-Python-?tab=readme-ov-file#-how-to-run-these-projects)
 
 
 ### **🎯 About This Portfolio**
