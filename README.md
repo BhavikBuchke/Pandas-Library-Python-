@@ -25,7 +25,9 @@ This repository serves as a practical demonstration of my ability to handle dive
 The portfolio is organized into three directories, reflecting an increasing level of complexity and skill application:
 
 ├── 📁 01-Beginner
+
 ├── 📁 02-Intermediate
+
 └── 📁 03-Advanced
 
 ### **🌱 Foundational Skills**
