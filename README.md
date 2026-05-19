@@ -61,8 +61,8 @@ Python (version 3.7 or higher)
 ### **Installation**
 
 ```sh
-#Clone the repository
-git clone [https://github.com/BhavikBuchke/30-pandas-projects.git](https://github.com/BhavikBuchke/Pandas-Library-Python.git)
+# Clone the repository
+git clone https://github.com/BhavikBuchke/Pandas-Library-Python.git
 ```
 ```
 #Navigate to the project directory:
