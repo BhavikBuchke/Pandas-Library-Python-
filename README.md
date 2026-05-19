@@ -62,7 +62,7 @@ Python (version 3.7 or higher)
 
 ```sh
 #Clone the repository
-git clone [https://github.com/your-username/30-pandas-projects.git](https://github.com/BhavikBuchke/Pandas-Library-Python.git)
+git clone [https://github.com/BhavikBuchke/30-pandas-projects.git](https://github.com/BhavikBuchke/Pandas-Library-Python.git)
 ```
 ```
 #Navigate to the project directory:
